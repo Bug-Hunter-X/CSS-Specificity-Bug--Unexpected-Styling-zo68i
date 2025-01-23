@@ -1,0 +1,2 @@
+# CSS Specificity Bug
+This repository demonstrates a common CSS bug related to specificity. The `bug.css` file shows a scenario where inline styles unintentionally override expected styles from the external stylesheet.  The `bugSolution.css` file offers a solution.
