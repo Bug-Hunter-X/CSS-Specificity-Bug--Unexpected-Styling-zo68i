@@ -1,0 +1,1 @@
+The CSS specificity rules can lead to unexpected styling issues if not understood well.  For instance, inline styles have higher specificity than embedded stylesheets, which have higher specificity than external stylesheets.  Overriding styles with higher specificity can become difficult to track down if not properly documented.
